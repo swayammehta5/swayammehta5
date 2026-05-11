@@ -20,7 +20,7 @@ jobs:
 
       # Generate Snake (Light Mode)
       - name: Generate Snake Light
-        uses: Platane/svg@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: swayammehta5
           outputs: |
@@ -28,7 +28,7 @@ jobs:
 
       # Generate Snake (Dark Mode)
       - name: Generate Snake Dark
-        uses: Platane/svg@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: swayammehta5
           outputs: |
