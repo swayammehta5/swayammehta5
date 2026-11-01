@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=SWAYAM%20MEHTA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Problem%20Solver&descAlignY=55&descSize=20" />
 
@@ -32,11 +32,11 @@
 
 🚀 B.Tech CSE student at Lovely Professional University passionate about full-stack development and scalable web applications.
 
-💡 Interested in MERN stack, system design, APIs, and real-world projects
+💡 Interested in MERN stack, system design, APIs, and real-world projects.
 
-⚡ Solved 250+ DSA problems across coding platforms
+⚡ Solved 250+ DSA problems across coding platforms.
 
-🔍 Exploring AI integrations and advanced web technologies
+🔍 Exploring AI integrations and advanced web technologies.
 
 ---
 
@@ -108,11 +108,28 @@
 
 # 🚀 FEATURED PROJECTS
 
+## 🏦 NexBanking – Secure Digital Banking Platform
+
+- Developed a full-stack digital banking platform with secure account management.
+- Implemented deposits, withdrawals, internal fund transfers and beneficiary management.
+- Integrated transaction history, spending analytics and notifications.
+- Implemented JWT authentication, bcrypt password hashing and secure 4-digit transaction PIN verification.
+- Used PostgreSQL and Prisma ORM for reliable relational data management and transactional operations.
+
+### Tech Stack
+`React.js` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `JWT` `bcrypt`
+
+🔗 **Repository:** [NexBanking](https://github.com/swayammehta5/NexBanking)
+
+🌐 **Live Demo:** [View NexBanking](https://nexbanking-frontend.onrender.com/)
+
+---
+
 ## 🎯 Productivity Tracker – Task & Habit Management Web App
 
-- Full-stack productivity tracker with habits, analytics, gamification
-- JWT Authentication and Google OAuth
-- PWA with offline support and MongoDB Atlas
+- Full-stack productivity tracker with habits, analytics, gamification.
+- JWT Authentication and Google OAuth.
+- PWA with offline support and MongoDB Atlas.
 
 ### Tech Stack
 `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
@@ -124,9 +141,9 @@ https://github.com/swayammehta5/Productivity-Tracker
 
 ## ✈️ Travel Mate – Travel Management Platform
 
-- Collaborative travel planner with expense tracking
-- Real-time updates using Socket.IO
-- JWT Authentication and responsive UI
+- Collaborative travel planner with expense tracking.
+- Real-time updates using Socket.IO.
+- JWT Authentication and responsive UI.
 
 ### Tech Stack
 `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Socket.IO`
@@ -138,9 +155,9 @@ https://github.com/swayammehta5/Travel-Mate
 
 ## 💼 Job Portal Website Business
 
-- Full-stack job portal platform
-- Authentication and admin dashboard
-- Responsive UI and backend APIs
+- Full-stack job portal platform.
+- Authentication and admin dashboard.
+- Responsive UI and backend APIs.
 
 ### Tech Stack
 `HTML` `CSS` `Tailwind CSS` `PHP` `JavaScript`
@@ -152,9 +169,9 @@ https://github.com/swayammehta5/job-portal-website-business
 
 ## 🌤️ Weather App
 
-- Real-time weather application using APIs
-- Responsive UI with live updates
-- Clean frontend implementation
+- Real-time weather application using APIs.
+- Responsive UI with live updates.
+- Clean frontend implementation.
 
 ### Tech Stack
 `HTML` `CSS` `JavaScript` `Weather API`
@@ -166,10 +183,10 @@ https://github.com/swayammehta5/Weather-App
 
 # 🏆 ACHIEVEMENTS
 
-- 🔥 Solved 250+ DSA problems
-- 🏅 Multiple coding badges
-- ⚡ Competitive Programming Enthusiast
-- 🚀 Passionate Full Stack Developer
+- 🔥 Solved 250+ DSA problems.
+- 🏅 Multiple coding badges.
+- ⚡ Competitive Programming Enthusiast.
+- 🚀 Passionate Full Stack Developer.
 
 ---
 
@@ -181,7 +198,7 @@ Bachelor of Technology in Computer Science and Engineering
 
 📍 Punjab, India
 
-CGPA: 7.8
+**CGPA: 7.83**
 
 ---
 
